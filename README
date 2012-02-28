@@ -1,0 +1,4 @@
+##This is a basic "E-bay" app out of the Head First Rails book.  It was used as my introduction into the concept of routing.
+##The book is written for Rails 2 so I had to research the Rails 3 way of doing things on my own which familiarized me
+##with the concept of REST.
+##I plan on adding some pre-existing images in the near future to learn about making things prettier.
